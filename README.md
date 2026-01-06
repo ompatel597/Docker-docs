@@ -1,4 +1,4 @@
-# Repo to learn Docker with examples. Contributions are most welcome.
+# Repo to learn Docker 
 
 ## If you found this repo useful, give it a STAR 🌠
 
